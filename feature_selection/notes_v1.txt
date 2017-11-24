@@ -1,0 +1,56 @@
+lo_categoricals = [
+    'ps_car_02_cat',  # 3
+    'ps_car_03_cat',  # 3
+    'ps_car_05_cat',  # 3
+    'ps_car_07_cat',  # 3
+    'ps_car_08_cat',  # 2
+    'ps_car_09_cat',  # 6
+    'ps_car_10_cat',  # 3
+    'ps_ind_02_cat',  # 5
+    'ps_ind_04_cat',  # 3
+    'ps_ind_05_cat',  # 8
+]
+
+hi_categoricals = [
+    'ps_car_01_cat',  # 13
+    'ps_car_04_cat',  # 10
+    'ps_car_06_cat',  # 18
+    'ps_car_11_cat',  # 104
+]
+
+
+'ps_car_11_cat',
+'ps_car_13',
+'ps_car_01_cat',
+'ps_car_06_cat',
+'ps_car_04_cat',
+'ps_ind_03',
+'ps_ind_15',
+'ps_ind_01',
+'ps_car_11_cat',
+'ps_ind_17_bin'
+
+
+
+'ps_car_11_cat',
+'ps_car_01_cat',
+'ps_car_06_cat',
+'ps_car_04_cat',
+'comb_1',
+'comb_0',
+'ps_reg_03',
+'ps_car_14',
+'ps_ind_03',
+'ps_ind_15',
+'ps_ind_01'
+
+
+'ps_car_11_cat',
+'ps_car_01_cat',
+'ps_car_06_cat',
+'ps_car_04_cat',
+'ps_reg_03',
+'ps_car_14'
+
+
+
